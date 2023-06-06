@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+![WhatsApp Image 2023-05-25 at 22 19 46](https://github.com/ADGITM2020/Interview-Buddy/assets/86917304/911efb81-193e-4d68-bce0-b28452198392)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
